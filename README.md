@@ -1,6 +1,6 @@
 # 🎧 Zingen - Landing Page
 
-![Banner do Projeto](./assets/desktop.png)
+![Banner do Projeto](https://raw.githubusercontent.com/willianpm/Projeto-Rocketseat-LP-produto-Zingen/refs/heads/master/Assets/desktop.png)
 
 ## 📝 Sumário
 
